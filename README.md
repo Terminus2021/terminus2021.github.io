@@ -1,4 +1,4 @@
-# terminus-jekyll-template
+# terminus-jekyll-template 版权来自2049bbs
 
 基于 [kiko-now](https://github.com/AWEEKJ/kiko-now) 项目，针对中文做了若干优化，增加了置顶、搜索、GitHub Corner 等功能。
 
@@ -10,8 +10,7 @@
 
 使用此模板的网站
 
-* https://terminus2049.github.io/
-* https://terminus2049.github.io/1984bbs/
+* https://terminus2021.github.io
 
 ### 使用指南
 
@@ -22,7 +21,7 @@
 5. 在`about.md`文件中修改个人简介，在 `_config.yml`文件中修改网站名和网站简介。
 6. 按照 [\_posts](https://github.com/TerminusBot/terminus-jekyll-template/tree/master/_posts) 文件夹中的格式写文章，新文章以`yyyy-mm-dd-engligh-title.md` 的格式命名，放在 `_posts` 文件夹下。
 
-### 名称来源
+### 名称来源（共享）
 
 > 在审判中，谢顿说出他的预言，语惊四座。他计划领导众多学者编辑一本包含全人类知识的《银河百科全书》，以此减缓帝国殒落的后遗症。委员会得知他的计划并非颠覆帝国的阴谋诡计后，将哈里·谢顿的团队连同他的计划放逐到银河系的边缘端点星。
 
@@ -33,8 +32,8 @@ gem install bundler jekyll
 gem install jekyll-paginate
 gem install jekyll-seo-tag
 gem install jekyll-sitemap
-git clone --depth=1 https://github.com/Terminus2049/Terminus2049.github.io.git
-cd terminus2049.github.io
+git clone --depth=1 https://github.com/Terminus2021/terminus2021.github.io.git
+cd terminus2021.github.io
 jekyll serve
 ```
 
@@ -47,12 +46,6 @@ jekyll serve
 
 ### 联系我们
 
-GitHub: [TerminusBot](https://github.com/TerminusBot)
+GitHub: [Terminus2021](https://github.com/Terminus2021)
 
-Twitter: [2049bbs](https://www.twitter.com/2049bbs)
 
-Forum: [2049bbs.xyz](https://2049bbs.xyz/)
-
-Telegram: [Terminus2049](https://t.me/terminus_9402)
-
-Email: terminus2049@protonmail.com
