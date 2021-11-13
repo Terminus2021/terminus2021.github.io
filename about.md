@@ -9,21 +9,9 @@ permalink: /about.html
 {% endif %}
 
 
-基于 kiko-now 项目，针对中文做了若干优化，增加了置顶、搜索、GitHub Corner 等功能。
-
-仅仅配置 `_config.yml` 文件即可。
-
-基于 kiko-now 项目，针对中文做了若干优化，增加了置顶、搜索、GitHub Corner 等功能。
-
-仅仅配置 _config.yml 文件即可。
-
-反馈或功能添加请前往 <https://2049bbs.xyz/>
-
-仓库地址 [TerminusBot/terminus-jekyll-template](https://github.com/TerminusBot/terminus-jekyll-template)
-
-### 使用此模板的网站
-* https://terminus2049.github.io/
-* https://terminus2049.github.io/1984bbs/
+我们是一个允许自由投稿的新闻源。  
+因为这个新闻源接纳的都是些社会八卦新闻（划掉啊啊啊）  
+来自学生身边的可靠消息。
 
 ### 名称来源
 
@@ -31,12 +19,12 @@ permalink: /about.html
 
 ### 联系我们
 
-GitHub: [TerminusBot](https://github.com/TerminusBot)
+GitHub: [Terminus2021](https://github.com/Terminus2021)
 
-Twitter: [2049bbs](https://www.twitter.com/2049bbs)
+Weibo: [吃了个葱823](https://www.weibo.com/sfercongbbsofficial)
 
-Forum: [2049bbs.xyz](https://2049bbs.xyz)
+Forum: [新·省附人](http://sfercongbbs.ticp.io)
 
-Telegram: [Terminus2049](https://t.me/terminus_9402)
+Telegram: [sf-er](https://t.me/sfercongbbs)
 
-Email: terminus2049@protonmail.com
+Email: terminus202110@163.com
