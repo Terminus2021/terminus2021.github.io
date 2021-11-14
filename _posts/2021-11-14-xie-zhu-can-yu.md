@@ -86,7 +86,7 @@ Terminus正是出于这样的原因与目的而产生。
     ```
     - layout: post 保持不变
     - title: 用备份文章的标题
-    - date: 被删日期
+    - date: 日期
     - categories: Archive 保持不变
     - tags: 标签（在Terminus2021查看是否已有相关标签）
     - image_feature: "如果文章有合适的图片可作为封面图，图片链接填在这里，若无则不填写"
