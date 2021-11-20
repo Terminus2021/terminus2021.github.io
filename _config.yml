@@ -13,7 +13,7 @@ description: 这是一个寂寞的小站
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+# avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
@@ -36,20 +36,20 @@ navigation:
     url: /tougao-jump.html
 
 # Pagination
-paginate: 20
+paginate: 15
 
 # Includes an icon in the footer for each username you enter
 footer-links:
   behance: # https://www.behance.net/<username>
   dribbble:
   email: terminus202110@163.com
-  facebook: https://www.weibo.com/sfercongbbsofficial
+  facebook: #
   flickr:
   github: Terminus2021/terminus2021.github.io
   googleplus: # anything in your profile username that comes after plus.google.com/
   instagram:
   linkedin: 
-  telegram: sfercongbbs
+  telegram: dahoufangbysfer
   pinterest:
   rss: atom.xml # just type anything here for a working RSS icon
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
